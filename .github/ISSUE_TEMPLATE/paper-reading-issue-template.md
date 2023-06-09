@@ -10,7 +10,6 @@ assignees: ''
 ## Paper Info
 ### Authors
 ### Date
-### URL
 ### Reference
 
 ## Overview
